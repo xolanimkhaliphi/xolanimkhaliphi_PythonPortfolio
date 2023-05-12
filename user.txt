@@ -1,0 +1,4 @@
+admin, adm1n
+
+user1, password1
+manager, manager1
